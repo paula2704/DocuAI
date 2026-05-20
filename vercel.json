@@ -1,5 +1,1 @@
-{
-	"buildCommand": "bash build.sh",
-	"outputDirectory": "build/web",
-	"framework": null
-}
+{"buildCommand":"bash build.sh","outputDirectory":"build/web","framework":null}
